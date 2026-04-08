@@ -1,0 +1,15 @@
+{
+  "name": "growadvisor",
+  "version": "1.0.0",
+  "description": "Asesor de cultivo de cannabis con IA",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
